@@ -19,6 +19,17 @@ The Gross Domestic Product of a country is a key indicator of its economic healt
 - Excel
 
 ## Techniques and Skills
+- Data Normalization
+
+- Data Transformation with Power Query
+
+- Data Modelling
+
+- Bookmarks
+
+- Report Automation
+
+- Data Visualization
 
 ## Data Source
 
