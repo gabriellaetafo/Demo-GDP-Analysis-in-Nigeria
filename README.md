@@ -34,11 +34,13 @@ The Gross Domestic Product of a country is a key indicator of its economic healt
 <a href = "https://nigerianstat.gov.ng/elibrary/read/1241549"> National Bureau of Statistics <a/>
 ## Data Model
 The data was first normalized in Excel before being transformed in Power Query. The raw data was split into nominal and real GDP and the indirect tax was seperated. A date table was created. A measure table consisting of various measures used in the analysis was also created.
+
 ![Data Model](https://github.com/gabriellaetafo/demo-analysis-of-GDP-in-Nigeria/blob/main/images/gdp_portfolio_data_model.png)
 
 ## Dashboard Insights
 ### Overview
 The current quarter GDP is N18.48T with a 0.09% increase compared to the previous quarter and a 3.02% increase compared to the same quarter last year.
+
 ![Overview Dashboard](https://github.com/gabriellaetafo/demo-analysis-of-GDP-in-Nigeria/blob/main/images/gdp_portfolio_main.png)
 #### GDP by Sector
 
