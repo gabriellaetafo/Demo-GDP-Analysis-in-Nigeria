@@ -44,6 +44,8 @@ The current quarter GDP is N18.48T with a 0.09% increase compared to the previou
 ![Overview Dashboard](https://github.com/gabriellaetafo/demo-analysis-of-GDP-in-Nigeria/blob/main/images/gdp_portfolio_main.png)
 #### GDP by Sector
 
+![GDP by Sector](https://github.com/gabriellaetafo/demo-analysis-of-GDP-in-Nigeria/blob/main/images/gdp_portfolio_by_activity_sector.png)
+
 ## Recommendations
 
 ## Download
