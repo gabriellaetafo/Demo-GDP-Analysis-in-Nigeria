@@ -34,6 +34,7 @@ The Gross Domestic Product of a country is a key indicator of its economic healt
 <a href = "https://nigerianstat.gov.ng/elibrary/read/1241549"> National Bureau of Statistics <a/>
 ## Data Model
 The data was first normalized in Excel before being transformed in Power Query. The raw data was split into nominal and real GDP and the indirect tax was seperated. A date table was created. A measure table consisting of various measures used in the analysis was also created.
+![Dta Model](https://1drv.ms/i/c/f4cf8b1b47f2153b/EW2FvKY-ySdDpacc3gTMEqcBnmlkrckuXi1dBtJnbiGszg?e=07jAE4)
 
 ## Dashboard Insights
 ### Overview
