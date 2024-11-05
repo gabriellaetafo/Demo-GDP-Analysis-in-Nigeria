@@ -40,3 +40,6 @@ The Gross Domestic Product of a country is a key indicator of its economic healt
 
 ## Recommendations
 
+## Download
+<a href = 'https://github.com/gabriellaetafo/demo-analysis-of-GDP-in-Nigeria/raw/refs/heads/main/images/gdp_Gabriella%20Etafo.pbix" Downlaod Power BI file <a/>
+
