@@ -12,7 +12,7 @@ The Gross Domestic Product of a country is a key indicator of its economic healt
 
 - Visualize data for better understanding utilizing Excel and Power BI tools.
 
-- Offer contextual expalanations for observed GDP trends and growth rates.
+- Offer contextual explanations for observed GDP trends and growth rates.
 
 ## Tools
 - Power BI
@@ -32,7 +32,7 @@ The Gross Domestic Product of a country is a key indicator of its economic healt
 - Data Visualization
 
 ## Data Source
-
+<a href = "https://nigerianstat.gov.ng/elibrary/read/1241549"> National Bureau of Statistics <a/>
 ## Data Model
 
 ## Dashboard Insights
