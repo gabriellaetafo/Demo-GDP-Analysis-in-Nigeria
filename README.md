@@ -1,4 +1,4 @@
-# demo-GDP-analysis-in-Nigeria
+# demo-GDP-analysis-in-Nigeria-from-2020-2024
 
 ## Introduction
 The Gross Domestic Product of a country is a key indicator of its economic health by recording all the goods and products produced in a country within a specific time period. Understnding GDP trends gives insights into a country's ecomomic stengths and weaknesses. This analysis ocuses on the GDP of Nigeria from 2020 to 2024.
